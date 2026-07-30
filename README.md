@@ -72,9 +72,9 @@ The website uses **offline/manual payment methods** (Cash on Delivery and Bank T
 
 ## GitHub Repository
 
-- **Repository:** [Insert your GitHub repo link here]
-- **Author:** [Your Name]
-- **Registration Number:** [Your Reg No]
+- **Repository: https://github.com/Cyomorokenny1/wixie.git
+- **Author:** Cyomoro Kenny, Uwase Kevine
+- **Registration Number:** 29323, 20252IMA011
 - **Course:** INSY 8313 – Management Information Systems
 - **Instructor:** Eric Maniraguia
 
